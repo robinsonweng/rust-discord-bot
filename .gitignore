@@ -1,0 +1,5 @@
+# ignore rust build binary
+/target
+
+# ignore dotenv
+.env
